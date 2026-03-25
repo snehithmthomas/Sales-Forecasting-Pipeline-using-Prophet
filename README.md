@@ -4,6 +4,12 @@ This project showcases **time series forecasting** for **Rossmann retail stores*
 
 ---
 
+## 🚀 Live Demo
+**Check out the interactive dashboard here:**  
+👉 [Sales Forecasting App](https://sales-forecasting-pipeline-using-prophet-bqvbnjystueng7gmbmhaf.streamlit.app/)
+
+---
+
 ## 📦 Dataset
 
 **Source**: [Rossmann Store Sales Dataset (Kaggle)](https://www.kaggle.com/c/rossmann-store-sales/data)  
